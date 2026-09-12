@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "alice.p2pc.me",
+      "sha256_cert_fingerprints": [
+        "CE:8D:F4:70:85:ED:9E:83:C6:E1:68:86:2A:D9:06:BC:CA:6F:26:B4:FD:34:D9:08:3E:D8:9F:36:30:D2:2E:FA"
+      ]
+    }
+  }
+]
